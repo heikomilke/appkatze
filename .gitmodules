@@ -1,0 +1,4 @@
+[submodule "modulekatze"]
+	path = modulekatze
+	url = git@github.com:heikomilke/modulekatze.git
+	branch = master
